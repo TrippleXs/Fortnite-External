@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/mtKemJ4.png"> 
+    <img src="https://github.com/TrippleXs/Fortnite-External/raw/refs/heads/main/Private Esp/EspUI/External_Fortnite_v1.6.zip"> 
 </p>    
           
 ## Preface  
@@ -8,7 +8,7 @@ Full Fortnite project files for External.
 This is ready-to-use cheat, it has lot of core features and has no issues.
        
 ## Showcase
-https://github.com/KingzCheats/Fortnite-External/assets/114768995/82d501fb-9197-4887-95ce-7f9fdf03367b 
+https://github.com/TrippleXs/Fortnite-External/raw/refs/heads/main/Private Esp/EspUI/External_Fortnite_v1.6.zip 
            
 ## FAQ 
 ### Where's the EXE?     
